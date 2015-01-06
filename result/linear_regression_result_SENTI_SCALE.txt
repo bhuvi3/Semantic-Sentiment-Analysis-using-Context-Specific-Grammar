@@ -1,0 +1,25 @@
+***LEXICAL SENTIMENT SCALE ANALYSIS***
+Large Movie Review Dataset v1.0 - IMDB
+Total: 50000
+Train: 45000=>90%
+Test: 5000=>10%
+***LINEAR REGRESSION SENTI_SCALE RESULTS***
+
+##############Accuracy##################
+
+Accuracy = 0.0%
+Training Error = 1.0
+Mean Squared Error = 1.33728660491e+41
+
+***CONFUSION MATRIX***
+0.0%	|	pos	|	neg
+------------------------------------
+pos	|	0	|	65
+neg	|	0	|	0
+
+##############Efficiency################
+
+Vectorizing Time = 0.0
+Training TIme = 12.2980000973
+Predicting TIme = 1.4509999752
+Evaluation TIme = 2.49699997902

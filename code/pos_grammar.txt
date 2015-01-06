@@ -1,0 +1,5 @@
+( is | was | it )?(.*)(fantast|awesome|brilliant|perfect|thrill|amaz|astonish|beautiful|good|marvel|memor)###
+( I | is | was | it )?(.*)(ador|admir|breathtak|color|convinc|effortless|enjoy|exceed|excel|extraordin|fascin|flawless|best|impress|enthrall|lovab)###
+( good| great| best| fun| weird)(.*)( movie | film | actor | actr| direct| ride| music | song)###
+(:\)|:p|:P|:d|:D|;\)|B\)|B\||O:\)|:\*|<3|^_^|\(Y\)|\(y\))###
+it was?(.*)(good|awesome|splendid|spellbinding|mindblowing|fantastic|best|fabulous|breathtaking|captivat|comsistent|cool|catchy|deserv|effec|elegant|enchant|entertain|entic|motivat|praiseworthy|rejoic|mesmeriz|tantaliz|vibrant|ecstat|fascinat|impress|genuinity|satisfy|spectacular|wow|worth|wonderful)###

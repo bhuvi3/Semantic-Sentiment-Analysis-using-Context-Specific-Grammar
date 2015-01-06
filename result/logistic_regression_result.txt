@@ -1,0 +1,26 @@
+***LEXICAL SENTIMENT ANALYSIS***
+Large Movie Review Dataset v1.0 - IMDB
+Total: 50000
+Train: 45000=>90%
+Test: 5000=>10%
+
+***LOGISTIC REGRESSION CLASSIFIER RESULTS***
+
+##############Accuracy##################
+
+Accuracy = 64.12%
+Training Error = 0.3588
+Mean Squared Error = 0.598999165275
+
+***CONFUSION MATRIX***
+64.12%	|	pos	|	neg
+------------------------------------
+pos	|	1868	|	703
+neg	|	1091	|	1338
+
+##############Efficiency################
+
+Vectorizing Time = 0.0
+Training TIme = 12.4700000286
+Predicting TIme = 1.09300017357
+Evaluation TIme = 1.85899996758
